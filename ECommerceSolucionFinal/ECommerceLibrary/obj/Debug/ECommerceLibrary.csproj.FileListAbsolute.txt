@@ -1,6 +1,0 @@
-C:\Users\Estudio section\source\repos\ultima tarea avanzada angekla\ECommerceSolucionFinal\ECommerceLibrary\bin\Debug\ECommerceLibrary.dll
-C:\Users\Estudio section\source\repos\ultima tarea avanzada angekla\ECommerceSolucionFinal\ECommerceLibrary\bin\Debug\ECommerceLibrary.pdb
-C:\Users\Estudio section\source\repos\ultima tarea avanzada angekla\ECommerceSolucionFinal\ECommerceLibrary\obj\Debug\ECommerceLibrary.csproj.AssemblyReference.cache
-C:\Users\Estudio section\source\repos\ultima tarea avanzada angekla\ECommerceSolucionFinal\ECommerceLibrary\obj\Debug\ECommerceLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Estudio section\source\repos\ultima tarea avanzada angekla\ECommerceSolucionFinal\ECommerceLibrary\obj\Debug\ECommerceLibrary.dll
-C:\Users\Estudio section\source\repos\ultima tarea avanzada angekla\ECommerceSolucionFinal\ECommerceLibrary\obj\Debug\ECommerceLibrary.pdb
